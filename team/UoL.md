@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Lincoln
-subtitle: University of Lincoln
+subtitle: 
 use-site-title: true
 use-site-subtitle: false
 ---
