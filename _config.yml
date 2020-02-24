@@ -22,13 +22,13 @@ description: HEAP -- Human-Guided Learning and Benchmarking of Robotic Heap Sort
 navbar-links:
   About: "aboutme"
   Consortium:
-    - University of Lincoln (UK): ""
-    - TU Vienna (AUT): ""
-    - IDIAP (Swiss):
-    - INRIA Nancy (Fr):
-    - IIT (Italy):
-  Benchmark Scenarios:
-  Datasets: 
+    - University of Lincoln (UK): "team/UoL"
+    - TU Vienna (AUT): "team/tuw"
+    - IDIAP (Swiss): "team/idiap"
+    - INRIA Nancy (Fr): "team/inria"
+    - IIT (Italy): "team/iit"
+  Benchmark Scenarios: "benchmarking"
+  Datasets: "datasets"
   Publications: "publications"
 
 # Image to show in the navigation bar - image must be a square (width = height)
