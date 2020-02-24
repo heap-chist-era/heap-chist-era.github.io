@@ -2,6 +2,7 @@
 layout: page
 title: The Heap Project
 subtitle: Human Guided Learning and Benchmarking of Robotic Heap Sorting
+published: true
 ---
 
 HEAP is a research project funded by Chist-Era that investigates Robot Manipulation Algorithms for Robotic Heap Sorting. 
@@ -19,7 +20,7 @@ objects that can be used for 3D printing in order to recreate our benchmark scen
 with existing grasp planners and manipulation algorithms will be implemented as baseline controllers
 that are easily exchangeable using ROS.
 
-
+![sorting.png]({{site.baseurl}}/img/sorting.png)
 
 
 The ability of robots to fully autonomously handle dense clutters or a heap of unknown objects has
@@ -38,9 +39,7 @@ the robot’s understanding of the scene in terms of object instances, categorie
 
 ### Details
 
-Project Start Date: March 31st, 2019
-
-Project End Date: March 30th, 2022
-
-
-
+- Project Start Date: March 31st, 2019
+- Project End Date: March 30th, 2022
+- Coordinator: Gerhard Neumann
+- Chist-Era Call: 
