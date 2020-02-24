@@ -1,5 +1,5 @@
 ---
 layout: page
-subtitle: IIT Italy
+title: IIT Italy
 use-site-title: true
 ---
