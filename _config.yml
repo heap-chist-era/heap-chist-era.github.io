@@ -20,7 +20,7 @@ description: HEAP -- Human-Guided Learning and Benchmarking of Robotic Heap Sort
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  About: "index"
   Consortium:
     - University of Lincoln (UK): "team/UoL"
     - TU Vienna (AUT): "team/tuw"
