@@ -5,6 +5,8 @@ subtitle: Human Guided Learning and Benchmarking of Robotic Heap Sorting
 published: true
 ---
 
+![sorting.png]({{site.baseurl}}/img/sorting.png)
+
 HEAP is a research project funded by Chist-Era that investigates Robot Manipulation Algorithms for Robotic Heap Sorting. 
 This project will provide scientific advancements for benchmarking, object recognition, manipulation
 and human-robot interaction. We focus on sorting a complex, unstructured heap of unknown objects
@@ -19,8 +21,6 @@ the objects by placing them into corresponding bins. We will provide scanned CAD
 objects that can be used for 3D printing in order to recreate our benchmark scenarios. Benchmarks
 with existing grasp planners and manipulation algorithms will be implemented as baseline controllers
 that are easily exchangeable using ROS.
-
-![sorting.png]({{site.baseurl}}/img/sorting.png)
 
 
 The ability of robots to fully autonomously handle dense clutters or a heap of unknown objects has
