@@ -18,6 +18,10 @@ the objects by placing them into corresponding bins. We will provide scanned CAD
 objects that can be used for 3D printing in order to recreate our benchmark scenarios. Benchmarks
 with existing grasp planners and manipulation algorithms will be implemented as baseline controllers
 that are easily exchangeable using ROS.
+
+
+
+
 The ability of robots to fully autonomously handle dense clutters or a heap of unknown objects has
 been very limited due to challenges in scene understanding, grasping, and decision making. In-
 stead, we will rely on semi-autonomous approaches where a human operator can interact with the
@@ -35,6 +39,8 @@ the robot’s understanding of the scene in terms of object instances, categorie
 ### Details
 
 Project Start Date: March 31st, 2019
+
 Project End Date: March 30th, 2022
+
 
 
