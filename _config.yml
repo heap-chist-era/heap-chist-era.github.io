@@ -28,7 +28,7 @@ navbar-links:
     - IDIAP (Swiss): "team/idiap"
     - INRIA Nancy (Fr): "team/inria"
     - IIT (Italy): "team/iit"
-  Benchmark Scenarios: "benchmarking"
+  Benchmark Scenarios: "benchmarks"
   Datasets: "datasets"
   Publications: "publications"
 
