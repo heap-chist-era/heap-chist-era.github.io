@@ -11,3 +11,5 @@ published: true
 - Suchi, M., Patten, T., Fischinger, D. and Vincze, M. "EasyLabel: A Semi-Automatic Pixel-wise Object Annotation Tool for Creating Robotic RGB-D Datasets", Proceedings of the International Conference on Robotics and Automation, pp.6678-6684, 2019.
 - Weibel, J., Patten, T. and Vincze, M. "Addressing the Sim2Real Gap in Robotic 3-D Object Classification", IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 407-413, 2020.
 - Bauer, D., Patten, T., and Vincze, M. "VeREFINE: Integrating Object Pose Verification with Iterative Physics-guided Refinement", arXiv preprint arXiv:1909.05730, 2019.
+- Kaushik R, Desreumaux P, Mouret JB. [Adaptive Prior Selection for Repertoire-based Online Adaptation in Robotics.](https://www.frontiersin.org/articles/10.3389/frobt.2019.00151/full) Frontiers in Robotics and AI. 2020 Jan 20;6:151.
+
