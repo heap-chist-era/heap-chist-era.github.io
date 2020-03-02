@@ -10,8 +10,8 @@ use-site-subtitle: false
 
 ## Team Members
 
-- Dr. Jean-Baptiste Mouret 
-- Dr. Sylvain Lefebvre
-- Dr. Mihai Andries (postdoc)
+- [Dr. Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/)
+- [Dr. Sylvain Lefebvre](https://www.antexel.com/sylefeb/research)
+- [Dr. Mihai Andries](http://mihai.andries.eu/) (postdoc)
 - Yoann Fleytoux (PhD student)
-- Anji Ma (visiting student from Bejing Institute of Technology)
+- Anji Ma (visiting PhD student)
